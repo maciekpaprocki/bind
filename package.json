@@ -1,0 +1,6 @@
+{
+  "name": "Atom",
+  "devDependencies": {
+    "extend": "^2.0.0"
+  }
+}
